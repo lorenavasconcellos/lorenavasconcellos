@@ -1,16 +1,17 @@
-### Hi there 👋
+### Oii, eu sou a Lorena! Bem vindo ao meu GitHub.
 
-<!--
-**lorenaVOM/lorenaVOM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📖 Estudante de Sistemas de Informação na UFRRJ
+ <div>
+  <a href="https://github.com/lorenaVOM">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lorenaVOM&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenaVOM&layout=compact&langs_count=7&theme=cobalt"/>
+</div>
+<div style="display: inline_block"><br>
+  <a href="https://instagram.com/itslorylorinha" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"  target="_blank"></a>
+  <a href="https://twitter.com/itslorylorinha" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"  target="_blank"></a> 
+     <a href="https://www.facebook.com/lorena.vasconcellos.35/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:lorena.vasconcellos2003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<img align="right" alt="eu" src="https://media.discordapp.net/attachments/691804014907752568/890008860180508772/eu.gif?width=173&height=173">
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ![Snake animation](https://github.com/lorenaVOM/lorenaVOM/blob/output/github-contribution-grid-snake.svg)

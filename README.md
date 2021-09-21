@@ -14,4 +14,4 @@
 <img align="right" alt="eu" src="https://media.discordapp.net/attachments/691804014907752568/890008860180508772/eu.gif?width=173&height=173">
 </div>
 
-  ![Snake animation](https://github.com/lorenaVOM/lorenaVOM/blob/output/github-contribution-grid-snake.svg)
+ [Snake animation](https://github.com/lorenaVOM/lorenaVOM/blob/output/github-contribution-grid-snake.svg)

@@ -10,8 +10,15 @@
   <a href="https://instagram.com/itslorylorinha" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"  target="_blank"></a>
   <a href="https://twitter.com/itslorylorinha" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"  target="_blank"></a> 
      <a href="https://www.facebook.com/lorena.vasconcellos.35/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:lorena.vasconcellos2003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<img align="right" alt="eu" src="https://media.discordapp.net/attachments/691804014907752568/890008860180508772/eu.gif?width=173&height=173">
+<a href = "mailto:lorena.vasconcellos2003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <img align="right" alt="eu" src="https://media.discordapp.net/attachments/691804014907752568/890008860180508772/eu.gif?width=143&height=143">
+ </div>
+ 
+  ##
+ 
+ <div>
+ 
+ 
+![Snake animation](https://github.com/lorenaVOM/lorenaVOM/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
-
- [Snake animation](https://github.com/lorenaVOM/lorenaVOM/blob/output/github-contribution-grid-snake.svg)

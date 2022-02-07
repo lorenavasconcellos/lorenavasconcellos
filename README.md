@@ -7,7 +7,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenaVOM&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 <div style="display: inline_block"><br> 
- <img align="right" alt="eu" height="110" style="border-radius:50px;" src="https://media.discordapp.net/attachments/691804014907752568/890008860180508772/eu.gif?width=123&height=123">
+ <img align="right" alt="eu" height="130" style="border-radius:50px;" src="https://media.discordapp.net/attachments/691804014907752568/890008860180508772/eu.gif?width=123&height=123">
 </div>
  
   ##

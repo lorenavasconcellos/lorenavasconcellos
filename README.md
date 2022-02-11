@@ -2,7 +2,7 @@
 
 - 📖 Estudante de Sistemas de Informação na UFRRJ
  <div>
-  <a href="https://github.com/lorenaVOM"</a>
+  <a href="https://github.com/lorenaVOM"></a>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lorenaVOM&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenaVOM&layout=compact&langs_count=7&theme=cobalt"/>
 </div>

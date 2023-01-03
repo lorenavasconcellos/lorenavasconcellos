@@ -1,4 +1,4 @@
-## 🌸 Oii, eu sou a Lorena! Bem vindo ao meu GitHub.
+## 🌸 Oii, eu sou a Lorena! Seja bem vindo(a) ao meu GitHub.
 
 - 📖 Estudante de Sistemas de Informação na UFRRJ
 

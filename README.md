@@ -1,7 +1,7 @@
 ## 🌸 Oii, eu sou a Lorena! Seja bem vindo(a) ao meu GitHub.
 
 - 📖 Estudante de Sistemas de Informação na UFRRJ
-- Estagiária na empresa Cittamobi
+- 👩🏼‍💻 Estagiária Web Developer na Cittamobi
 
  <div>
   <a href="https://github.com/lorenavasconcellos"></a>

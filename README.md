@@ -1,8 +1,5 @@
 ## 🌸 Oii, eu sou a Lorena! Seja bem vindo(a) ao meu GitHub.
 
-- 📖 Estudante de Sistemas de Informação na UFRRJ
-- 👩🏼‍💻 Estagiária Dev Full Stack na Cittamobi
-
  <div>
   <a href="https://github.com/lorenavasconcellos"></a>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lorenavasconcellos&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
